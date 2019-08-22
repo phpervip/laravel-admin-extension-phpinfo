@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\PHPInfo\Http\Controllers;
+namespace Phper\PHPInfo\Http\Controllers;
 
 use Encore\Admin\Layout\Content;
 use Illuminate\Routing\Controller;
