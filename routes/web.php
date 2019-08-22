@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\PHPInfo;
+namespace Phper\PHPInfo;
 use Illuminate\Support\ServiceProvider;
 class PHPInfoServiceProvider extends ServiceProvider
 {
